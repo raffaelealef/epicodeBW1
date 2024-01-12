@@ -1,0 +1,1 @@
+SELECT SUM(QuantitaDisponibile) AS QuantitaTotale FROM BuildWeek.prodotti_dataset
